@@ -1,0 +1,20 @@
+# Project exclude paths
+/node_modules/
+/src/Either/Either.d.ts
+/src/Either/Either.d.ts.map
+/src/Either/Either.js
+/src/Lazy/index.d.ts
+/src/Lazy/index.d.ts.map
+/src/Lazy/index.js
+/src/Lazy/Lazy.d.ts
+/src/Lazy/Lazy.d.ts.map
+/src/Lazy/Lazy.js
+/src/index.d.ts
+/src/index.d.ts.map
+/src/index.js
+/src/Maybe.d.ts
+/src/Maybe.d.ts.map
+/src/Maybe.js
+/src/Observable.d.ts
+/src/Observable.d.ts.map
+/src/Observable.js
